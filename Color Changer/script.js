@@ -33,7 +33,7 @@ const handleApplyBtnClick = ()=>{
    let color = colorInput.value;
     changeColor(color);
 }
-randomBtn.addEventListener('click',handleRandomBtnClick)
+randomBtn.addEventListener('click', handleRandomBtnClick)
 applyBtn.addEventListener('click',  handleApplyBtnClick)
     
 
